@@ -1,6 +1,6 @@
 ![Q-Hack_LeWagon](https://github.com/user-attachments/assets/c0eb82b4-0e76-4c29-8aec-0187cad73f3c)
 
-# Le Wagon Challenge @ Q-Hack 2025
+# <p align="center"> Le Wagon Challenge @ Q-Hack 2025 </p>
 
 ## Build the Application that Builds Careers
 
